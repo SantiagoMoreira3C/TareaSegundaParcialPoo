@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{1433B872-8FCF-40A2-B654-ED647DEA1EE7}|Default">
+  <MonoDevelop.Ide.ItemProperties.CarritoDeCompras PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CarritoDeCompras/Impresora.cs">
+    <Files>
+      <File FileName="CarritoDeCompras/Program.cs" Line="60" Column="1" />
+      <File FileName="CarritoDeCompras/Factura.cs" />
+      <File FileName="CarritoDeCompras/Cliente.cs" />
+      <File FileName="CarritoDeCompras/ClienteRegistrado.cs" />
+      <File FileName="CarritoDeCompras/ClienteSinRegistro.cs" />
+      <File FileName="CarritoDeCompras/Producto.cs" />
+      <File FileName="CarritoDeCompras/Impresora.cs" Line="12" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
